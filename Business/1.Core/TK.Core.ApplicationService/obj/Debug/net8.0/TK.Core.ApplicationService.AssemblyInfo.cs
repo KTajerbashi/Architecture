@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TK.Core.ApplicationService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24e823996be2ac86339286e87ec157c0cc56a6c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30ec941dc3484d4045fb5ab1a848760c25295433")]
 [assembly: System.Reflection.AssemblyProductAttribute("TK.Core.ApplicationService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TK.Core.ApplicationService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
