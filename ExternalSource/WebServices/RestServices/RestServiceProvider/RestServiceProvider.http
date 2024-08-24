@@ -1,0 +1,11 @@
+@RestServiceProvider_HostAddress = http://localhost:5121
+
+GET {{RestServiceProvider_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{RestServiceProvider_HostAddress}}/todos/1
+Accept: application/json
+
+###

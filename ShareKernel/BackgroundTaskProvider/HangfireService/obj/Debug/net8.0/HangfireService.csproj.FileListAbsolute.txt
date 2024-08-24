@@ -1,0 +1,12 @@
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\bin\Debug\net8.0\HangfireService.deps.json
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\bin\Debug\net8.0\HangfireService.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\bin\Debug\net8.0\HangfireService.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\obj\Debug\net8.0\HangfireService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\obj\Debug\net8.0\HangfireService.AssemblyInfoInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\obj\Debug\net8.0\HangfireService.AssemblyInfo.cs
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\obj\Debug\net8.0\HangfireService.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\obj\Debug\net8.0\HangfireService.sourcelink.json
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\obj\Debug\net8.0\HangfireService.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\obj\Debug\net8.0\refint\HangfireService.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\obj\Debug\net8.0\HangfireService.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\BackgroundTaskProvider\HangfireService\obj\Debug\net8.0\ref\HangfireService.dll

@@ -1,0 +1,12 @@
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\bin\Debug\net8.0\TK.Infrastructure.Data.Sql.Command.deps.json
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\bin\Debug\net8.0\TK.Infrastructure.Data.Sql.Command.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\bin\Debug\net8.0\TK.Infrastructure.Data.Sql.Command.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\obj\Debug\net8.0\TK.Infrastructure.Data.Sql.Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\obj\Debug\net8.0\TK.Infrastructure.Data.Sql.Command.AssemblyInfoInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\obj\Debug\net8.0\TK.Infrastructure.Data.Sql.Command.AssemblyInfo.cs
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\obj\Debug\net8.0\TK.Infrastructure.Data.Sql.Command.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\obj\Debug\net8.0\TK.Infrastructure.Data.Sql.Command.sourcelink.json
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\obj\Debug\net8.0\TK.Infrastructure.Data.Sql.Command.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\obj\Debug\net8.0\refint\TK.Infrastructure.Data.Sql.Command.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\obj\Debug\net8.0\TK.Infrastructure.Data.Sql.Command.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\obj\Debug\net8.0\ref\TK.Infrastructure.Data.Sql.Command.dll

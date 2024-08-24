@@ -1,0 +1,12 @@
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\bin\Debug\net8.0\BaseSource.EndPoint.deps.json
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\bin\Debug\net8.0\BaseSource.EndPoint.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\bin\Debug\net8.0\BaseSource.EndPoint.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\obj\Debug\net8.0\BaseSource.EndPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\obj\Debug\net8.0\BaseSource.EndPoint.AssemblyInfoInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\obj\Debug\net8.0\BaseSource.EndPoint.AssemblyInfo.cs
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\obj\Debug\net8.0\BaseSource.EndPoint.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\obj\Debug\net8.0\BaseSource.EndPoint.sourcelink.json
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\obj\Debug\net8.0\BaseSource.EndPoint.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\obj\Debug\net8.0\refint\BaseSource.EndPoint.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\obj\Debug\net8.0\BaseSource.EndPoint.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\3.EndPoints\BaseSource.EndPoint\obj\Debug\net8.0\ref\BaseSource.EndPoint.dll

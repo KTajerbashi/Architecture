@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wjcqnu3gCPMB7jvLjf+Z8JSC7UxVf+JjGQ/Km5i5t5M=",
+  "Source": "RestServiceProvider",
+  "BasePath": "_content/RestServiceProvider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

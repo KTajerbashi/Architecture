@@ -1,0 +1,12 @@
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\bin\Debug\net8.0\TK.Core.Domain.deps.json
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\bin\Debug\net8.0\TK.Core.Domain.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\bin\Debug\net8.0\TK.Core.Domain.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\obj\Debug\net8.0\TK.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\obj\Debug\net8.0\TK.Core.Domain.AssemblyInfoInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\obj\Debug\net8.0\TK.Core.Domain.AssemblyInfo.cs
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\obj\Debug\net8.0\TK.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\obj\Debug\net8.0\TK.Core.Domain.sourcelink.json
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\obj\Debug\net8.0\TK.Core.Domain.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\obj\Debug\net8.0\refint\TK.Core.Domain.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\obj\Debug\net8.0\TK.Core.Domain.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\Business\1.Core\TK.Core.Domain\obj\Debug\net8.0\ref\TK.Core.Domain.dll

@@ -1,0 +1,12 @@
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\bin\Debug\net8.0\BaseSource.Infrastructure.Data.Sql.deps.json
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\bin\Debug\net8.0\BaseSource.Infrastructure.Data.Sql.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\bin\Debug\net8.0\BaseSource.Infrastructure.Data.Sql.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\obj\Debug\net8.0\BaseSource.Infrastructure.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\obj\Debug\net8.0\BaseSource.Infrastructure.Data.Sql.AssemblyInfoInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\obj\Debug\net8.0\BaseSource.Infrastructure.Data.Sql.AssemblyInfo.cs
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\obj\Debug\net8.0\BaseSource.Infrastructure.Data.Sql.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\obj\Debug\net8.0\BaseSource.Infrastructure.Data.Sql.sourcelink.json
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\obj\Debug\net8.0\BaseSource.Infrastructure.Data.Sql.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\obj\Debug\net8.0\refint\BaseSource.Infrastructure.Data.Sql.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\obj\Debug\net8.0\BaseSource.Infrastructure.Data.Sql.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\obj\Debug\net8.0\ref\BaseSource.Infrastructure.Data.Sql.dll

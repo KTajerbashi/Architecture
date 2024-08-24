@@ -1,0 +1,12 @@
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\bin\Debug\net8.0\AutoMapperService.deps.json
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\bin\Debug\net8.0\AutoMapperService.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\bin\Debug\net8.0\AutoMapperService.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\obj\Debug\net8.0\AutoMapperService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\obj\Debug\net8.0\AutoMapperService.AssemblyInfoInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\obj\Debug\net8.0\AutoMapperService.AssemblyInfo.cs
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\obj\Debug\net8.0\AutoMapperService.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\obj\Debug\net8.0\AutoMapperService.sourcelink.json
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\obj\Debug\net8.0\AutoMapperService.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\obj\Debug\net8.0\refint\AutoMapperService.dll
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\obj\Debug\net8.0\AutoMapperService.pdb
+D:\Visual Studio\Git Tajerbashi\Architecture\ShareKernel\MapperProvider\AutoMapperService\obj\Debug\net8.0\ref\AutoMapperService.dll
