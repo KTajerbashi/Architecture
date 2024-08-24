@@ -1,6 +1,0 @@
-@SOAPServiceProvider_HostAddress = http://localhost:5134
-
-GET {{SOAPServiceProvider_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

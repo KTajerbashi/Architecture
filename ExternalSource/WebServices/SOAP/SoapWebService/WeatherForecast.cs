@@ -1,4 +1,4 @@
-namespace SOAPServiceProvider
+namespace SoapWebService
 {
     public class WeatherForecast
     {
