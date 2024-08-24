@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapWebService", "ExternalS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryCacheService", "ShareKernel\CacheProvider\MemoryCacheService\MemoryCacheService.csproj", "{3F10593F-85C0-4474-A01B-2601184A43CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK.EndPoint.WebApp", "Business\3.EndPoints\TK.EndPoint.WebApp\TK.EndPoint.WebApp.csproj", "{F7826D8C-D446-4D78-9B73-FEE6500201A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -155,6 +157,10 @@ Global
 		{3F10593F-85C0-4474-A01B-2601184A43CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F10593F-85C0-4474-A01B-2601184A43CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F10593F-85C0-4474-A01B-2601184A43CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7826D8C-D446-4D78-9B73-FEE6500201A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7826D8C-D446-4D78-9B73-FEE6500201A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7826D8C-D446-4D78-9B73-FEE6500201A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7826D8C-D446-4D78-9B73-FEE6500201A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -193,6 +199,7 @@ Global
 		{0B4B0AB7-96F0-4A5F-89B6-0B0F820E0986} = {5FEF6937-E981-4944-9BEC-5EE1FBE80CC7}
 		{095A5B52-7326-4BCE-B657-CCDBA1EDAE39} = {949DDF4C-447D-4DB5-8962-BC944B14BBDF}
 		{3F10593F-85C0-4474-A01B-2601184A43CF} = {4F5118D3-D526-4F2B-A850-B42993004AE5}
+		{F7826D8C-D446-4D78-9B73-FEE6500201A2} = {3EFEE10B-A6C7-42B8-9983-0CE6F1240294}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A7875ACB-8A32-4A43-AF63-CA078545B5D7}

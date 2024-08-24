@@ -15,4 +15,12 @@
     <PackageReference Include="System.ServiceModel.Security" Version="6.0.*" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BaseSource\3.EndPoints\BaseSource.EndPoint\BaseSource.EndPoint.csproj" />
+    <ProjectReference Include="..\..\1.Core\TK.Core.ApplicationService\TK.Core.ApplicationService.csproj" />
+    <ProjectReference Include="..\..\1.Core\TK.Core.Domain\TK.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\TK.Infrastructure.Data.Sql.Command.csproj" />
+    <ProjectReference Include="..\..\2.Infrastructure\TK.Infrastructure.Data.Sql.Query\TK.Infrastructure.Data.Sql.Query.csproj" />
+  </ItemGroup>
+
 </Project>

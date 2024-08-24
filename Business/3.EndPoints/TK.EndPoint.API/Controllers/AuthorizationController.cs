@@ -1,13 +1,7 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using SOAP_EmployeeService;
 
 namespace TK.EndPoint.API.Controllers;
-[ApiController]
-[Route("soap/[controller]")]
-public class BaseController : Controller
-{
-
-}
 
 public class AuthorizationController : BaseController
 {
@@ -18,9 +12,4 @@ public class AuthorizationController : BaseController
         var result = employeeService.GetOrganizationContract();
         return await Task.FromResult(Ok(result));
     }
-}
-
-public class MessageController : BaseController
-{
-
 }
