@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaseSource.Infrastructure.Data.Sql.Query")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e6f6ff673aebd98b9427e641c262eb992e1bac1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24e823996be2ac86339286e87ec157c0cc56a6c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaseSource.Infrastructure.Data.Sql.Query")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaseSource.Infrastructure.Data.Sql.Query")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

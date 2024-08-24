@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.6.33829.357
+VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BaseSource", "BaseSource", "{1A58136B-F8EF-4DC7-9885-B6CA59D76295}"
 EndProject
@@ -39,43 +39,43 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Infrastructure", "2.Infra
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Core", "1.Core", "{F5C9DE6A-97E0-490C-8342-44C647A82B28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseSource.Core.Domain", "BaseSource\1.Core\BaseSource.Core.Domain\BaseSource.Core.Domain.csproj", "{D4C96841-B867-4522-8924-9D556F04E8E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseSource.Core.Domain", "BaseSource\1.Core\BaseSource.Core.Domain\BaseSource.Core.Domain.csproj", "{D4C96841-B867-4522-8924-9D556F04E8E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseSource.Core.ApplicationService", "BaseSource\1.Core\BaseSource.Core.ApplicationService\BaseSource.Core.ApplicationService.csproj", "{1DA7A729-43C2-4858-828B-8BCBF5C29999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseSource.Core.ApplicationService", "BaseSource\1.Core\BaseSource.Core.ApplicationService\BaseSource.Core.ApplicationService.csproj", "{1DA7A729-43C2-4858-828B-8BCBF5C29999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseSource.Infrastructure.Data.Sql", "BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\BaseSource.Infrastructure.Data.Sql.csproj", "{6ADC655C-E7E0-4EDD-AA4D-E36C58BF65B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseSource.Infrastructure.Data.Sql", "BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql\BaseSource.Infrastructure.Data.Sql.csproj", "{6ADC655C-E7E0-4EDD-AA4D-E36C58BF65B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseSource.Infrastructure.Data.Sql.Command", "BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql.Command\BaseSource.Infrastructure.Data.Sql.Command.csproj", "{E9A1C36C-8B45-4C01-89B0-5FD80189FDEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseSource.Infrastructure.Data.Sql.Command", "BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql.Command\BaseSource.Infrastructure.Data.Sql.Command.csproj", "{E9A1C36C-8B45-4C01-89B0-5FD80189FDEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseSource.Infrastructure.Data.Sql.Query", "BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql.Query\BaseSource.Infrastructure.Data.Sql.Query.csproj", "{8C3F3B08-F6CF-4A73-9682-6E7C6528D57F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseSource.Infrastructure.Data.Sql.Query", "BaseSource\2.Infrastructure\BaseSource.Infrastructure.Data.Sql.Query\BaseSource.Infrastructure.Data.Sql.Query.csproj", "{8C3F3B08-F6CF-4A73-9682-6E7C6528D57F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseSource.EndPoint", "BaseSource\3.EndPoints\BaseSource.EndPoint\BaseSource.EndPoint.csproj", "{4D2965BE-0AD4-488F-8BCD-FA301B970752}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseSource.EndPoint", "BaseSource\3.EndPoints\BaseSource.EndPoint\BaseSource.EndPoint.csproj", "{4D2965BE-0AD4-488F-8BCD-FA301B970752}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK.Core.Domain", "Business\1.Core\TK.Core.Domain\TK.Core.Domain.csproj", "{EFA1E669-D994-479E-B50C-243000186486}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK.Core.Domain", "Business\1.Core\TK.Core.Domain\TK.Core.Domain.csproj", "{EFA1E669-D994-479E-B50C-243000186486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK.Core.ApplicationService", "Business\1.Core\TK.Core.ApplicationService\TK.Core.ApplicationService.csproj", "{F5E83514-3B49-46C1-AB63-4AE8A07390C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK.Core.ApplicationService", "Business\1.Core\TK.Core.ApplicationService\TK.Core.ApplicationService.csproj", "{F5E83514-3B49-46C1-AB63-4AE8A07390C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK.Infrastructure.Data.Sql.Command", "Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\TK.Infrastructure.Data.Sql.Command.csproj", "{7A26A856-4F11-45DE-9490-37691045BCA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK.Infrastructure.Data.Sql.Command", "Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Command\TK.Infrastructure.Data.Sql.Command.csproj", "{7A26A856-4F11-45DE-9490-37691045BCA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK.Infrastructure.Data.Sql.Query", "Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Query\TK.Infrastructure.Data.Sql.Query.csproj", "{469B0F61-E734-4CCB-9E82-6F12144B23CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK.Infrastructure.Data.Sql.Query", "Business\2.Infrastructure\TK.Infrastructure.Data.Sql.Query\TK.Infrastructure.Data.Sql.Query.csproj", "{469B0F61-E734-4CCB-9E82-6F12144B23CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK.EndPoint.API", "Business\3.EndPoints\TK.EndPoint.API\TK.EndPoint.API.csproj", "{0B22A6BB-FD37-4501-8FA0-0D1235E4EF10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TK.EndPoint.API", "Business\3.EndPoints\TK.EndPoint.API\TK.EndPoint.API.csproj", "{0B22A6BB-FD37-4501-8FA0-0D1235E4EF10}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestServiceProvider", "ExternalSource\WebServices\RestServices\RestServiceProvider\RestServiceProvider.csproj", "{1C423D15-D766-4991-873F-88161B50DCE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPServiceProvider", "ExternalSource\WebServices\SoapServices\SOAPServiceProvider\SOAPServiceProvider.csproj", "{09C23CF7-3E89-4449-8C5E-CCDC24D60DD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOAPServiceProvider", "ExternalSource\WebServices\SoapServices\SOAPServiceProvider\SOAPServiceProvider.csproj", "{09C23CF7-3E89-4449-8C5E-CCDC24D60DD8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HangfireProvider", "HangfireProvider", "{86E488DC-DE13-43C1-92B4-D82CBA49E48F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangfireService", "ShareKernel\BackgroundTaskProvider\HangfireService\HangfireService.csproj", "{7D3C5D55-8D37-4ECF-93C4-25AED6D946E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HangfireService", "ShareKernel\BackgroundTaskProvider\HangfireService\HangfireService.csproj", "{7D3C5D55-8D37-4ECF-93C4-25AED6D946E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheMemoryService", "ShareKernel\CacheProvider\CacheMemoryService\CacheMemoryService.csproj", "{AD88C146-3F0B-4646-B052-7D9FF936AAF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriLogService", "ShareKernel\LoggerProvider\SeriLogService\SeriLogService.csproj", "{AEB9EEDA-E153-4058-9CB7-5445821711D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeriLogService", "ShareKernel\LoggerProvider\SeriLogService\SeriLogService.csproj", "{AEB9EEDA-E153-4058-9CB7-5445821711D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperService", "ShareKernel\MapperProvider\AutoMapperService\AutoMapperService.csproj", "{F0D00DDC-1921-4795-BC0D-411233EB2E85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMapperService", "ShareKernel\MapperProvider\AutoMapperService\AutoMapperService.csproj", "{F0D00DDC-1921-4795-BC0D-411233EB2E85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeExtensions", "ShareKernel\UtilitiesProvider\DateTimeExtensions\DateTimeExtensions.csproj", "{47190FAE-1307-415B-8132-DEC45FC616FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeExtensions", "ShareKernel\UtilitiesProvider\DateTimeExtensions\DateTimeExtensions.csproj", "{47190FAE-1307-415B-8132-DEC45FC616FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +195,6 @@ Global
 		{47190FAE-1307-415B-8132-DEC45FC616FB} = {D3433653-BE68-4CB6-AF4A-04A73A953A16}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FAF885AA-A2F0-4234-9489-643C61CFC37A}
+		SolutionGuid = {A7875ACB-8A32-4A43-AF63-CA078545B5D7}
 	EndGlobalSection
 EndGlobal

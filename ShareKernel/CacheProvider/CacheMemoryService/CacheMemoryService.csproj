@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<<<<<<<< HEAD:ShareKernel/CacheProvider/CacheMemoryService/CacheMemoryService.csproj
+========
+  <ItemGroup>
+    <ProjectReference Include="..\Architecture.Domain.Library\Architecture.Domain.Library.csproj" />
+  </ItemGroup>
+
+>>>>>>>> e7f340a75c7f0288b7d3b61b4f083619a26571a3:Architecture.Application.Library/Architecture.Application.Library.csproj
 </Project>
