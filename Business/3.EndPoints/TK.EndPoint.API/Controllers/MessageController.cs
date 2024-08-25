@@ -1,6 +1,10 @@
-﻿namespace TK.EndPoint.API.Controllers;
+﻿using MediatR;
 
-public class MessageController : BaseController
+namespace TK.EndPoint.API.Controllers;
+
+public class MessageController : AuthenticateController
 {
-
+    public MessageController(IMediator mediator) : base(mediator)
+    {
+    }
 }

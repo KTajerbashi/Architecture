@@ -7,6 +7,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="8.0.8" />
+    <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="8.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="8.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.8" />
+    <PackageReference Include="Microsoft.Extensions.Caching.SqlServer" Version="8.0.8" />
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="8.0.8" />
+    <PackageReference Include="Scrutor" Version="4.2.2" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.1" />
+  </ItemGroup>
+  
+  
+  <ItemGroup>
     <ProjectReference Include="..\..\1.Core\BaseSource.Core.ApplicationService\BaseSource.Core.ApplicationService.csproj" />
     <ProjectReference Include="..\..\1.Core\BaseSource.Core.Domain\BaseSource.Core.Domain.csproj" />
   </ItemGroup>
