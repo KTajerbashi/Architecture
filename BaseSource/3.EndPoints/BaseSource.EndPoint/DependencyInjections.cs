@@ -1,5 +1,7 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-//using SharedKernel.Extensions.Providers;
+﻿using BaseSource.Core.ApplicationService;
+using BaseSource.Core.Domain;
+using Microsoft.Extensions.DependencyInjection;
+using SharedKernel.Extensions.Providers;
 
 namespace BaseSource.EndPoint;
 
@@ -7,7 +9,8 @@ public static class DependencyInjections
 {
     public static IServiceCollection AddBaseEndPoint(this IServiceCollection service)
     {
-        //service.AddProviders();
+        service.AddProviders();
+        
         return service;
     }
 }

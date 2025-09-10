@@ -11,6 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\SharedKernel\Extensions\SharedKernel.Extensions.Providers\SharedKernel.Extensions.Providers.csproj" />
+    <ProjectReference Include="..\..\..\SharedKernel\Extensions\SharedKernel.Extensions.Utilities\SharedKernel.Extensions.Utilities.csproj" />
     <ProjectReference Include="..\BaseSource.Core.Domain\BaseSource.Core.Domain.csproj" />
   </ItemGroup>
 
